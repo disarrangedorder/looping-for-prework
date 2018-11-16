@@ -6,7 +6,5 @@ def using_for
 		looping_string = "Wingardium Leviosa"
 		puts looping_string
 	end
-	
+
 end
-
-
